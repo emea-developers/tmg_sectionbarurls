@@ -1,26 +1,18 @@
 [
   {
-    "section" : "690",
-    "title" : "LIVE - Sport Test",
-    "webviewTitle" : "Sport Live",
-    "url" : "http://www.google.co.uk"
-  },
-  {
-    "section" : "687",
-    "title" : "LIVE - News Test",
-    "webviewTitle" : "News Live",
-    "url" : "http://www.google.co.uk"
-  },
-  {
-    "section" : "691",
-    "title" : "LIVE - Technology Test",
-    "webviewTitle" : "Technology Live",
-    "url" : "http://www.google.co.uk"
-  },
-  {
-    "section" : "682",
-    "title" : "LIVE - Financial data Test",
+    "section" : "584",
+    "title" : "LIVE - Financial data",
     "webviewTitle" : "Finance Live",
-    "url" : "http://www.google.co.uk"
+    "url" : "http://www.telegraph.co.uk/template/appPages/finance/markets/index.jsp?WT.tsrc=TelegraphiPhoneNewsApp%20v4.2"
+  },{
+    "section" : "592",
+    "title" : "LIVE - Sports",
+    "webviewTitle" : "Sports Live",
+    "url" : "http://www.telegraph.co.uk/template/appPages/finance/markets/index.jsp?WT.tsrc=TelegraphiPhoneNewsApp%20v4.2"
+  },{
+    "section" : "589",
+    "title" : "LIVE - News",
+    "webviewTitle" : "News Live",
+    "url" : "http://www.telegraph.co.uk/template/appPages/finance/markets/index.jsp?WT.tsrc=TelegraphiPhoneNewsApp%20v4.2"
   }
 ]
