@@ -9,10 +9,5 @@
     "title" : "LIVE - Sports",
     "webviewTitle" : "Sports Live",
     "url" : "http://www.telegraph.co.uk/template/appPages/finance/markets/index.jsp?WT.tsrc=TelegraphiPhoneNewsApp%20v4.2"
-  },{
-    "section" : "589",
-    "title" : "LIVE - News",
-    "webviewTitle" : "News Live",
-    "url" : "http://www.telegraph.co.uk/template/appPages/finance/markets/index.jsp?WT.tsrc=TelegraphiPhoneNewsApp%20v4.2"
-  }
+  },
 ]
